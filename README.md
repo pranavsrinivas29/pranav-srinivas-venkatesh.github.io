@@ -85,15 +85,48 @@ Feel free to explore, connect, or collaborate!
     </td>
   </tr>
 
+  <tr>
+    <td width="25%">
+      <img src="images/food.png" alt="Recipe Finder with Ingredient Search" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Reciepe-Finder"><b>Recipe Finder with Ingredient Search</b></a><br/>
+      This project allows users to search for recipes based on the ingredients they have. It uses a machine learning model from HuggingFace to create embeddings for recipes and stores them in ChromaDB for efficient ingredient-based searching. The user interface is built with Streamlit, allowing users to input ingredients and receive a list of matching recipes.
+    </td>
+  </tr>
+
 
 </table>
 
 
 ## Certificates
-<a href = "certificates/Transcript - PranavSrinivasVenkatesh-2979 _ Microsoft Learn.pdf"><b>Microsoft Certified: Azure AI Fundamentals (AI 900)<b></a>
-<a href = "certificates/databricks_fundamentals.png"><b>Databricks Fundamentals</b></a>
-<a href = "https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10201884"><b>Introduction to Generative AI</b></a>
-<a href = "https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10249537"><b>Prompt Design in Vertex AI</b></a>
+<table>
+  <tr>
+    <td>
+      <a href="certificates/Transcript - PranavSrinivasVenkatesh-2979 _ Microsoft Learn.pdf" target="_blank">
+        <b>Microsoft Certified: Azure AI Fundamentals (AI 900)</b>
+      </a>
+    </td>
+    <td>
+      <a href="certificates/databricks_fundamentals.png" target="_blank">
+        <b>Databricks Fundamentals</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10201884" target="_blank">
+        <b>Introduction to Generative AI</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10249537" target="_blank">
+        <b>Prompt Design in Vertex AI</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## Publication
 <a href="https://www.ijisrt.com/crop-management-system-using-machine-learning"><b>Crop Management System Using ML<b><a><br>
