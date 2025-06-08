@@ -65,12 +65,32 @@ Feel free to explore, connect, or collaborate!
     </td>
   </tr>
 
+  <tr>
+    <td width="25%">
+      <img src="images/epl.png" alt="EPL-Data-Analysis-and-Prediction" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/EPL-Data-Analysis-and-Prediction"><b>EPL-Data-Analysis-and-Prediction</b></a><br/>
+      This project involves building a chatbot that answers questions about the Premier League using historical season and match data. It leverages sentence embeddings to encode the data and stores them in a FAISS index for efficient similarity-based retrieval. When a user submits a query, the chatbot uses a SentenceTransformer model to convert the question into an embedding and retrieves the most relevant information from the index. The retrieved context is then passed to a GPT-2 model, which generates a natural, human-like response. The system integrates season-level data (e.g., champions, goals) and match-level data (e.g., scores, teams) to deliver informative answers.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/netflix.png" alt="Netflix-Dashboard-using-PowerBI" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Netflix-Dashboard-using-PowerBI"><b>Netflix-Dashboard-using-PowerBI</b></a><br/>
+      This Power BI dashboard provides an insightful analysis of Netflix data, with a focus on key performance metrics and user engagement. The dashboard includes a single comprehensive page, which is designed to offer a high-level overview of the most critical aspects of Netflix's operations.
+    </td>
+  </tr>
+
 
 </table>
 
 
 ## Certificates
-<a href = "certificates/Microsoft-AI-900.pdf"><b>Microsoft Certified: Azure AI Fundamentals (AI 900)</b></a>
+<a href = "certificates/Transcript - PranavSrinivasVenkatesh-2979 _ Microsoft Learn.pdf"><b>Microsoft Certified: Azure AI Fundamentals (AI 900)<b></a>
 <a href = "certificates/databricks_fundamentals.png"><b>Databricks Fundamentals</b></a>
 <a href = "https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10201884"><b>Introduction to Generative AI</b></a>
 <a href = "https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10249537"><b>Prompt Design in Vertex AI</b></a>
