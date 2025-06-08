@@ -25,6 +25,16 @@ Feel free to explore, connect, or collaborate!
     </td>
   </tr>
 
+  <tr>
+    <td width="25%">
+      <img src="images/medbuddy.png" alt="MedBuddy Chatbot" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/MedBuddy_chatbot"><b>Med-Buddy Chatbot</b></a><br/>
+      MedBuddy is a conversational medical assistant built with LangChain, Streamlit, and LLMs (Zephyr/Ollama). It helps users interactively explore drug-related information, compare medications, understand medical terms, and even suggest drugs based on symptoms.
+    </td>
+  </tr>
+
 </table>
 
 
