@@ -9,4 +9,4 @@ Welcome to my portfolio!
 ## 📫 Contact
 
 - Email: 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/pranav-srinivas-venkatesh-81a211163/)
