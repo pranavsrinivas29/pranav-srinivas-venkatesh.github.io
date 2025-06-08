@@ -8,8 +8,7 @@ It is **updated regularly** as I continue learning and building impactful projec
 Feel free to explore, connect, or collaborate!
 ## 📫 Contact
 
-- [Email](pranav.sv.data@gmail.com) [LinkedIn](https://www.linkedin.com/in/pranav-srinivas-venkatesh-81a211163/)
-
+- [Email](mailto:pranav.sv.data@gmail.com) [LinkedIn](https://www.linkedin.com/in/pranav-srinivas-venkatesh-81a211163/)
 
 ## 👨‍💻 Projects
 
@@ -35,11 +34,33 @@ Feel free to explore, connect, or collaborate!
     </td>
   </tr>
 
+  <tr>
+    <td width="25%">
+      <img src="images/rnn.png" alt="Unreasonable-effectiveness-of-RNN" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/MedBuddy_chatbot"><b>Unreasonable-effectiveness-of-RNN</b></a><br/>
+      In this project, I explored three use cases where RNNs act as character-level language models.
+      First, the RNN is trained on Shakespeare’s dialogues to generate English-like text. Then, it's used to create new baby names based on a dataset of existing ones. Finally, it generates LaTeX code from a set of sample inputs.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/telecom.png" alt="Telecom-Churn-Prediction" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Telecom-Churn-Prediction"><b>Telecom-Churn-Prediction</b></a><br/>
+      This project focuses on predicting customer churn based on their telecom service usage and profile attributes. The goal is to explore feature importance, address class imbalance via algorithm-level methods (not resampling), and compare classifier performance.
+    </td>
+  </tr>
+
 </table>
 
 
 ## Certificates
 
 ## Publication
+<a href="https://github.com/pranavsrinivas29/Telecom-Churn-Prediction"><b>Crop Management System Using ML</b><a><br>
 
 
