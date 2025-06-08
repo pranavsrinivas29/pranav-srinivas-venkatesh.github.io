@@ -125,6 +125,20 @@ Feel free to explore, connect, or collaborate!
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.hackerrank.com/certificates/b56051017038" target="_blank">
+        <b>Python Basic</b>
+      </a>
+    </td>
+    <!-- <td>
+      <a href="https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10249537" target="_blank">
+        <b>Prompt Design in Vertex AI</b>
+      </a>
+    </td> -->
+  </tr>
+
+
 </table>
 
 
