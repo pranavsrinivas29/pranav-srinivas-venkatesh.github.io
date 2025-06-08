@@ -55,12 +55,27 @@ Feel free to explore, connect, or collaborate!
     </td>
   </tr>
 
+  <tr>
+    <td width="25%">
+      <img src="images/crop.png" alt="Crop Management System Using ML" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/CropManagementSystem-Using-ML"><b>Crop Management System Using ML</b></a><br/>
+      This project includes three models: a fertilizer predictor (based on soil data using Random Forest), a crop predictor (based on climate conditions with kNN), and a future crop price predictor (using ARIMA model for the historical price trends).
+    </td>
+  </tr>
+
+
 </table>
 
 
 ## Certificates
+<a href = "certificates/Microsoft-AI-900.pdf"><b>Microsoft Certified: Azure AI Fundamentals (AI 900)</b></a>
+<a href = "certificates/databricks_fundamentals.png"><b>Databricks Fundamentals</b></a>
+<a href = "https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10201884"><b>Introduction to Generative AI</b></a>
+<a href = "https://www.cloudskillsboost.google/public_profiles/9eb5bf7d-87ac-42a1-837d-ef861532e310/badges/10249537"><b>Prompt Design in Vertex AI</b></a>
 
 ## Publication
-<a href="https://github.com/pranavsrinivas29/Telecom-Churn-Prediction"><b>Crop Management System Using ML</b><a><br>
+<a href="https://www.ijisrt.com/crop-management-system-using-machine-learning"><b>Crop Management System Using ML<b><a><br>
 
 
