@@ -103,7 +103,14 @@ Feel free to explore, connect, or collaborate!
       <a href="https://github.com/pranavsrinivas29/Gold-Price-Prediction"><b>Gold Price Prediction</b></a><br/>
     </td>
   </tr>
-
+<tr>
+    <td width="25%">
+      <img src="" alt="Clustering Methods" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Clustering-Methods"><b>Clustering</b></a><br/>
+    </td>
+  </tr>
 
 </table>
 
