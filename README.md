@@ -97,23 +97,37 @@ Feel free to explore, connect, or collaborate!
 
 <tr>
     <td width="25%">
-      <img src="" alt="Gold Price Prediction" />
+      <img src="images/gold.png" alt="Gold Price Prediction" />
     </td>
     <td>
       <a href="https://github.com/pranavsrinivas29/Gold-Price-Prediction"><b>Gold Price Prediction</b></a><br/>
+      This projects is tp forecast Gold-Centric Multi-Target Forecaster using XGBoost which is choosed based upon evaluation from LazyRegressor.
     </td>
   </tr>
 <tr>
     <td width="25%">
-      <img src="" alt="Clustering Methods" />
+      <img src="images/customer.png" alt="Clustering Methods" />
     </td>
     <td>
       <a href="https://github.com/pranavsrinivas29/Clustering-Methods"><b>Clustering</b></a><br/>
+      Customer Segmentation Analysis using different clustering methods from partitioning, hierarchical based.
     </td>
   </tr>
 
 </table>
 
+## Case Studies
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/gradient_descent.png" alt="Gradient Descent methods analysis" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Blogs-Recommender-System"><b>Gradient Descent methods analysis</b></a><br/>
+      This project demonstrates the effect of various gradient descent (GD) optimization algorithms on training a Multilayer Perceptron (MLP) model for a regression task using the California Housing dataset. The core objective is to analyze and compare optimizers such as Adam, SGD, RMSprop, Adagrad, Rprop, and SGD with momentum.
+    </td>
+  </tr>
+</table>
 
 ## Certificates
 <table>
