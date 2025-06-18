@@ -129,6 +129,18 @@ Feel free to explore, connect, or collaborate!
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/statistical_analysis.png" alt="Statistical Methods Analysis" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Statistical-test-analysis"><b>Statistical Methods Analysis</b></a><br/>
+      An interactive Dash-based web application for performing statistical hypothesis tests on COVID-19 data grouped by WHO region. Users can explore Chi-Square Tests, T-Tests, and Z-Tests on metrics like case fatality and recovery rates.
+    </td>
+  </tr>
+</table>
+
 ## Certificates
 <table>
   <tr>
