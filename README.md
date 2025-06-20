@@ -113,7 +113,25 @@ Feel free to explore, connect, or collaborate!
       Customer Segmentation Analysis using different clustering methods from partitioning, hierarchical based.
     </td>
   </tr>
+<tr>
+    <td width="25%">
+      <img src="images/dog-vs-cat.png" alt="Dog-vs-Cat-Classsification-using-MobileNet" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Dog-vs-Cat-Classsification-using-MobileNet"><b>Dog-vs-Cat-Classsification-using-MobileNet</b></a><br/>
+      This project provides a complete image classification pipeline using TensorFlow and MobileNetV2. It's designed to help you go from raw image folders to a trained deep learning model with minimal effort — all organized in a clean, reusable Python class.
+    </td>
+  </tr>
 
+  tr>
+    <td width="25%">
+      <img src="images/biology.png" alt="Breast Cancer Classification using Neural Networks" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Breast-Cancer-Classification"><b>Breast Cancer Classification using Neural Networks </b></a><br/>
+      This project provides a complete image classification pipeline using TensorFlow and MobileNetV2. It's designed to help you go from raw image folders to a trained deep learning model with minimal effort — all organized in a clean, reusable Python class.
+    </td>
+  </tr>
 </table>
 
 ## Case Studies
