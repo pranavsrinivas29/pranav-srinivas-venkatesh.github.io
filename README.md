@@ -123,7 +123,7 @@ Feel free to explore, connect, or collaborate!
     </td>
   </tr>
 
-  tr>
+  <tr>
     <td width="25%">
       <img src="images/biology.png" alt="Breast Cancer Classification using Neural Networks" />
     </td>
