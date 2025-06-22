@@ -132,6 +132,16 @@ Feel free to explore, connect, or collaborate!
       This project provides a complete image classification pipeline using TensorFlow and MobileNetV2. It's designed to help you go from raw image folders to a trained deep learning model with minimal effort — all organized in a clean, reusable Python class.
     </td>
   </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/market_basket.png" alt="Market-Basket-Analysis" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Market-Basket-Analysis"><b>Market-Basket-Analysis </b></a><br/>
+      Market Basket Analysis: Apriori, Eclat, and Graph Neural Networks (GNN)
+    </td>
+  </tr>
 </table>
 
 ## Case Studies
