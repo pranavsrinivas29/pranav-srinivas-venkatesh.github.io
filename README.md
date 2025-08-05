@@ -1,6 +1,6 @@
 # Hi, I'm Pranav Srinivas Venkatesh👋
 
-Welcome to my personal portfolio — a collection of all the **Data Science** and **Data Analysis** projects I’ve completed for academic, self-study, and personal growth.
+Welcome to my personal portfolio — a collection of all the **Data Science** and **AI and ML** projects I’ve completed for academic, self-study, and personal growth.
 
 This portfolio also showcases my **achievements**, **technical skills**, and **certifications** in the data domain.  
 It is **updated regularly** as I continue learning and building impactful projects.
