@@ -142,6 +142,17 @@ Feel free to explore, connect, or collaborate!
       Market Basket Analysis: Apriori, Eclat, and Graph Neural Networks (GNN)
     </td>
   </tr>
+
+  
+  <tr>
+    <td width="25%">
+      <img src="images/loan_classifier.png" alt="Loan Classifier" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Loan-Classification"><b>Loan Classifier</b></a><br/>
+      This project is a modular machine learning application that predicts whether a loan will be approved or rejected based on applicant and financial information. It uses a Logistic Regression model and includes both a FastAPI backend for inference and a Streamlit frontend for user interaction.
+    </td>
+  </tr>
 </table>
 
 ## Case Studies
