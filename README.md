@@ -223,30 +223,29 @@ Feel free to explore, connect, or collaborate!
 </table>
 
 ## Tools and Frameworks
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-App-DD0031?logo=streamlit&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML/AI-FF6F00?logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-150458?logo=pandas&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-Platform-E36C4D?logo=databricks&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Platform-56B9EB?logo=snowflake&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-FFD21F?logo=huggingface&logoColor=black)  
-![LangChain](https://img.shields.io/badge/LangChain-Framework-2B6CB0?logo=langchain&logoColor=white)  
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Data%20Framework-7B3FA0)  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF7F50)  
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflow-00A36C)  
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-4A4A4A)  
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI/CD-0078D7?logo=azuredevops&logoColor=white)
+## 🛠️ Tools and Frameworks
 
-## Publication
-<a href="https://www.ijisrt.com/crop-management-system-using-machine-learning"><b>Crop Management System Using ML<b><a><br>
-
-
+<p align="left">
+  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/-Python-333?logo=python&logoColor=white&style=flat-square" alt="Python"></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/-FastAPI-333?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"></a>
+  <a href="https://streamlit.io/" title="Streamlit"><img src="https://img.shields.io/badge/-Streamlit-333?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit"></a>
+  <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://img.shields.io/badge/-Scikit--Learn-333?logo=scikit-learn&logoColor=white&style=flat-square" alt="Scikit-learn"></a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://img.shields.io/badge/-TensorFlow-333?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"></a>
+  <a href="https://keras.io/" title="Keras"><img src="https://img.shields.io/badge/-Keras-333?logo=keras&logoColor=white&style=flat-square" alt="Keras"></a>
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://img.shields.io/badge/-Pandas-333?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=white&style=flat-square" alt="Docker"></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white&style=flat-square" alt="GitHub"></a>
+  <a href="https://www.databricks.com/" title="Databricks"><img src="https://img.shields.io/badge/-Databricks-333?logo=databricks&logoColor=white&style=flat-square" alt="Databricks"></a>
+  <a href="https://www.snowflake.com/" title="Snowflake"><img src="https://img.shields.io/badge/-Snowflake-333?logo=snowflake&logoColor=white&style=flat-square" alt="Snowflake"></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"></a>
+  <a href="https://jupyter.org/" title="Jupyter Notebook"><img src="https://img.shields.io/badge/-Jupyter-333?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter"></a>
+  <a href="https://pytorch.org/" title="PyTorch"><img src="https://img.shields.io/badge/-PyTorch-333?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch"></a>
+  <a href="https://openai.com/" title="OpenAI"><img src="https://img.shields.io/badge/-OpenAI-333?logo=openai&logoColor=white&style=flat-square" alt="OpenAI"></a>
+  <a href="https://huggingface.co/" title="Hugging Face"><img src="https://img.shields.io/badge/-HuggingFace-333?logo=huggingface&logoColor=white&style=flat-square" alt="Hugging Face"></a>
+  <a href="https://www.langchain.com/" title="LangChain"><img src="https://img.shields.io/badge/-LangChain-333?logo=langchain&logoColor=white&style=flat-square" alt="LangChain"></a>
+  <a href="https://llamaindex.ai/" title="LlamaIndex"><img src="https://img.shields.io/badge/-LlamaIndex-333?logo=data&logoColor=white&style=flat-square" alt="LlamaIndex"></a>
+  <a href="https://www.trychroma.com/" title="ChromaDB"><img src="https://img.shields.io/badge/-ChromaDB-333?logo=database&logoColor=white&style=flat-square" alt="ChromaDB"></a>
+  <a href="https://www.langgraph.dev/" title="LangGraph"><img src="https://img.shields.io/badge/-LangGraph-333?logo=workflow&logoColor=white&style=flat-square" alt="LangGraph"></a>
+  <a href="https://ollama.com/" title="Ollama"><img src="https://img.shields.io/badge/-Ollama-333?logo=llm&logoColor=white&style=flat-square" alt="Ollama"></a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="https://img.shields.io/badge/-Azure%20DevOps-333?logo=azuredevops&logoColor=white&style=flat-square" alt="Azure DevOps"></a>
+</p>
