@@ -222,6 +222,17 @@ Feel free to explore, connect, or collaborate!
 
 </table>
 
+## Tools and Frameworks
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-App-DD0031?logo=streamlit&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-150458?logo=pandas&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-Platform-E36C4D?logo=databricks&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Platform-56B9EB?logo=snowflake&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
 
 ## Publication
 <a href="https://www.ijisrt.com/crop-management-system-using-machine-learning"><b>Crop Management System Using ML<b><a><br>
