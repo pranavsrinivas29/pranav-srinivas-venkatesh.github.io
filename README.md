@@ -160,7 +160,7 @@ Feel free to explore, connect, or collaborate!
     </td>
     <td>
       <a href="https://github.com/pranavsrinivas29/Personalized-News-Aggregator"><b>News Aggregator</b></a><br/>
-      This project is a modular machine learning application that predicts whether a loan will be approved or rejected based on applicant and financial information. It uses a Logistic Regression model and includes both a FastAPI backend for inference and a Streamlit frontend for user interaction.
+      An intelligent, AI-powered news aggregator that fetches real-time articles based on user queries and preferences, summarizes them using RAG (Retrieval-Augmented Generation), and filters them by region, language, and content safety.
     </td>
   </tr>
 </table>
