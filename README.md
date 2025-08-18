@@ -153,6 +153,16 @@ Feel free to explore, connect, or collaborate!
       This project is a modular machine learning application that predicts whether a loan will be approved or rejected based on applicant and financial information. It uses a Logistic Regression model and includes both a FastAPI backend for inference and a Streamlit frontend for user interaction.
     </td>
   </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/news_aggregator.png" alt="News Aggregator" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Personalized-News-Aggregator"><b>News Aggregator</b></a><br/>
+      This project is a modular machine learning application that predicts whether a loan will be approved or rejected based on applicant and financial information. It uses a Logistic Regression model and includes both a FastAPI backend for inference and a Streamlit frontend for user interaction.
+    </td>
+  </tr>
 </table>
 
 ## Case Studies
@@ -223,8 +233,6 @@ Feel free to explore, connect, or collaborate!
 </table>
 
 ## Tools and Frameworks
-## 🛠️ Tools and Frameworks
-
 <p align="left">
   <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/-Python-333?logo=python&logoColor=white&style=flat-square" alt="Python"></a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/-FastAPI-333?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"></a>
@@ -249,3 +257,6 @@ Feel free to explore, connect, or collaborate!
   <a href="https://ollama.com/" title="Ollama"><img src="https://img.shields.io/badge/-Ollama-333?logo=llm&logoColor=white&style=flat-square" alt="Ollama"></a>
   <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="https://img.shields.io/badge/-Azure%20DevOps-333?logo=azuredevops&logoColor=white&style=flat-square" alt="Azure DevOps"></a>
 </p>
+
+## Publication
+<a href="https://www.ijisrt.com/crop-management-system-using-machine-learning"><b>Crop Management System Using ML<b><a><br>
