@@ -12,6 +12,27 @@ Feel free to explore, connect, or collaborate!
 
 ## 👨‍💻 Projects
 
+### 📊 Data Science / Machine Learning
+- [Telecom Churn Prediction](#telecom-churn-prediction)
+- [Crop Management System](#crop-management-system-using-ml)
+- [Gold Price Prediction](#gold-price-prediction)
+- [Loan Classifier](#loan-classifier)
+- [Clustering](#clustering)
+- [Netflix Dashboard](#netflix-dashboard-using-powerbi)
+- [Milk Quality Prediction](#milk-quality-prediction---mlops-project)
+
+### 🗣️ NLP / Generative AI
+- [Blogs Recommender System](#blogs-recommender-system)
+- [MedBuddy Chatbot](#med-buddy-chatbot)
+- [Unreasonable Effectiveness of RNN](#unreasonable-effectiveness-of-rnn)
+- [EPL Data Analysis Chatbot](#epl-data-analysis-and-prediction)
+- [Recipe Finder](#recipe-finder-with-ingredient-search)
+- [News Aggregator](#news-aggregator)
+
+### 👁️ Computer Vision / AI Applications
+- [Dog vs Cat Classification](#dog-vs-cat-classsification-using-mobilenet)
+- [Breast Cancer Classification](#breast-cancer-classification-using-neural-networks)
+- [Market Basket Analysis](#market-basket-analysis)
 
 <table>
   <tr>
