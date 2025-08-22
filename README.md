@@ -346,7 +346,7 @@ Feel free to explore, connect, or collaborate!
   <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="https://img.shields.io/badge/-Azure%20DevOps-333?logo=azuredevops&logoColor=white&style=flat-square" alt="Azure DevOps"></a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/-FastAPI-333?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"></a>
   <a href="https://streamlit.io/" title="Streamlit"><img src="https://img.shields.io/badge/-Streamlit-333?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit"></a>
-  <a href="https://mlflow.org/" title="MLflow"><img src="https://img.shields.io/badge/-MLflow-333?logo=mlflow&logoColor=white&style=flat-square" alt="MLflow"></a>
+  
 
 </p>
 
