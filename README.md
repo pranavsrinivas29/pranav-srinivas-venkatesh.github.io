@@ -34,49 +34,17 @@ Feel free to explore, connect, or collaborate!
 - [Breast Cancer Classification](#breast-cancer-classification-using-neural-networks)
 - [Market Basket Analysis](#market-basket-analysis)
 
+## 📊 Data Science / Machine Learning Projects  
+
 <table>
-  
-  <tr>
-    <td width="25%">
-      <img src="images/blogs.png" alt="Blogs-Recommender-System" />
-    </td>
-    <td>
-      <a name="blogs-recommender-system"></a>
-      <a href="https://github.com/pranavsrinivas29/Blogs-Recommender-System"><b>Blogs-Recommender-System</b></a><br/>
-      This project builds a multi-level hybrid blog recommendation system using a combination of popularity-based, content-based, collaborative filtering approaches. It is based on three main datasets: author information, blog metadata, and user-blog interaction (ratings).
-    </td>
-  </tr>
-
-  
-  <tr>
-    <td width="25%">
-      <img src="images/medbuddy.png" alt="MedBuddy Chatbot" />
-    </td>
-    <td>
-      <a name="med-buddy-chatbot"></a>
-      <a href="https://github.com/pranavsrinivas29/MedBuddy_chatbot"><b>Med-Buddy Chatbot</b></a><br/>
-      MedBuddy is a conversational medical assistant built with LangChain, Streamlit, and LLMs (Zephyr/Ollama). It helps users interactively explore drug-related information, compare medications, understand medical terms, and even suggest drugs based on symptoms.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%">
-      <img src="images/rnn.png" alt="Unreasonable-effectiveness-of-RNN" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/MedBuddy_chatbot"><b>Unreasonable-effectiveness-of-RNN</b></a><br/>
-      In this project, I explored three use cases where RNNs act as character-level language models.
-      First, the RNN is trained on Shakespeare’s dialogues to generate English-like text. Then, it's used to create new baby names based on a dataset of existing ones. Finally, it generates LaTeX code from a set of sample inputs.
-    </td>
-  </tr>
-
   <tr>
     <td width="25%">
       <img src="images/telecom.png" alt="Telecom-Churn-Prediction" />
     </td>
     <td>
+      <a name="telecom-churn-prediction"></a>
       <a href="https://github.com/pranavsrinivas29/Telecom-Churn-Prediction"><b>Telecom-Churn-Prediction</b></a><br/>
-      This project focuses on predicting customer churn based on their telecom service usage and profile attributes. The goal is to explore feature importance, address class imbalance via algorithm-level methods (not resampling), and compare classifier performance.
+      This project focuses on predicting customer churn based on their telecom service usage and profile attributes...
     </td>
   </tr>
 
@@ -85,18 +53,31 @@ Feel free to explore, connect, or collaborate!
       <img src="images/crop.png" alt="Crop Management System Using ML" />
     </td>
     <td>
+      <a name="crop-management-system-using-ml"></a>
       <a href="https://github.com/pranavsrinivas29/CropManagementSystem-Using-ML"><b>Crop Management System Using ML</b></a><br/>
-      This project includes three models: a fertilizer predictor (based on soil data using Random Forest), a crop predictor (based on climate conditions with kNN), and a future crop price predictor (using ARIMA model for the historical price trends).
+      This project includes three models: a fertilizer predictor, a crop predictor, and a crop price forecaster...
     </td>
   </tr>
 
   <tr>
     <td width="25%">
-      <img src="images/epl.png" alt="EPL-Data-Analysis-and-Prediction" />
+      <img src="images/gold.png" alt="Gold Price Prediction" />
     </td>
     <td>
-      <a href="https://github.com/pranavsrinivas29/EPL-Data-Analysis-and-Prediction"><b>EPL-Data-Analysis-and-Prediction</b></a><br/>
-      This project involves building a chatbot that answers questions about the Premier League using historical season and match data. It leverages sentence embeddings to encode the data and stores them in a FAISS index for efficient similarity-based retrieval. When a user submits a query, the chatbot uses a SentenceTransformer model to convert the question into an embedding and retrieves the most relevant information from the index. The retrieved context is then passed to a GPT-2 model, which generates a natural, human-like response. The system integrates season-level data (e.g., champions, goals) and match-level data (e.g., scores, teams) to deliver informative answers.
+      <a name="gold-price-prediction"></a>
+      <a href="https://github.com/pranavsrinivas29/Gold-Price-Prediction"><b>Gold Price Prediction</b></a><br/>
+      This project forecasts gold prices using XGBoost based on evaluation from LazyRegressor...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/customer.png" alt="Clustering Methods" />
+    </td>
+    <td>
+      <a name="clustering"></a>
+      <a href="https://github.com/pranavsrinivas29/Clustering-Methods"><b>Clustering</b></a><br/>
+      Customer Segmentation Analysis using partitioning and hierarchical clustering methods...
     </td>
   </tr>
 
@@ -105,87 +86,20 @@ Feel free to explore, connect, or collaborate!
       <img src="images/netflix.png" alt="Netflix-Dashboard-using-PowerBI" />
     </td>
     <td>
-      <a href="https://github.com/pranavsrinivas29/Netflix-Dashboard-using-PowerBI"><b>Netflix-Dashboard-using-PowerBI</b></a><br/>
-      This Power BI dashboard provides an insightful analysis of Netflix data, with a focus on key performance metrics and user engagement. The dashboard includes a single comprehensive page, which is designed to offer a high-level overview of the most critical aspects of Netflix's operations.
+      <a name="netflix-dashboard-using-powerbi"></a>
+      <a href="https://github.com/pranavsrinivas29/Netflix-Dashboard-using-PowerBI"><b>Netflix Dashboard</b></a><br/>
+      An interactive Power BI dashboard that provides an insightful analysis of Netflix data...
     </td>
   </tr>
 
-  <tr>
-    <td width="25%">
-      <img src="images/food.png" alt="Recipe Finder with Ingredient Search" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/Reciepe-Finder"><b>Recipe Finder with Ingredient Search</b></a><br/>
-      This project allows users to search for recipes based on the ingredients they have. It uses a machine learning model from HuggingFace to create embeddings for recipes and stores them in ChromaDB for efficient ingredient-based searching. The user interface is built with Streamlit, allowing users to input ingredients and receive a list of matching recipes.
-    </td>
-  </tr>
-
-<tr>
-    <td width="25%">
-      <img src="images/gold.png" alt="Gold Price Prediction" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/Gold-Price-Prediction"><b>Gold Price Prediction</b></a><br/>
-      This projects is tp forecast Gold-Centric Multi-Target Forecaster using XGBoost which is choosed based upon evaluation from LazyRegressor.
-    </td>
-  </tr>
-<tr>
-    <td width="25%">
-      <img src="images/customer.png" alt="Clustering Methods" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/Clustering-Methods"><b>Clustering</b></a><br/>
-      Customer Segmentation Analysis using different clustering methods from partitioning, hierarchical based.
-    </td>
-  </tr>
-<tr>
-    <td width="25%">
-      <img src="images/dog-vs-cat.png" alt="Dog-vs-Cat-Classsification-using-MobileNet" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/Dog-vs-Cat-Classsification-using-MobileNet"><b>Dog-vs-Cat-Classsification-using-MobileNet</b></a><br/>
-      This project provides a complete image classification pipeline using TensorFlow and MobileNetV2. It's designed to help you go from raw image folders to a trained deep learning model with minimal effort — all organized in a clean, reusable Python class.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%">
-      <img src="images/biology.png" alt="Breast Cancer Classification using Neural Networks" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/Breast-Cancer-Classification"><b>Breast Cancer Classification using Neural Networks </b></a><br/>
-      This project provides a complete image classification pipeline using TensorFlow and MobileNetV2. It's designed to help you go from raw image folders to a trained deep learning model with minimal effort — all organized in a clean, reusable Python class.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%">
-      <img src="images/market_basket.png" alt="Market-Basket-Analysis" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/Market-Basket-Analysis"><b>Market-Basket-Analysis </b></a><br/>
-      Market Basket Analysis: Apriori, Eclat, and Graph Neural Networks (GNN)
-    </td>
-  </tr>
-
-  
   <tr>
     <td width="25%">
       <img src="images/loan_classifier.png" alt="Loan Classifier" />
     </td>
     <td>
+      <a name="loan-classifier"></a>
       <a href="https://github.com/pranavsrinivas29/Loan-Classification"><b>Loan Classifier</b></a><br/>
-      This project is a modular machine learning application that predicts whether a loan will be approved or rejected based on applicant and financial information. It uses a Logistic Regression model and includes both a FastAPI backend for inference and a Streamlit frontend for user interaction.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%">
-      <img src="images/news_aggregator.png" alt="News Aggregator" />
-    </td>
-    <td>
-      <a href="https://github.com/pranavsrinivas29/Personalized-News-Aggregator"><b>News Aggregator</b></a><br/>
-      An intelligent, AI-powered news aggregator that fetches real-time articles based on user queries and preferences, summarizes them using RAG (Retrieval-Augmented Generation), and filters them by region, language, and content safety.
+      A modular ML application to predict loan approval using Logistic Regression with FastAPI + Streamlit...
     </td>
   </tr>
 
@@ -194,11 +108,124 @@ Feel free to explore, connect, or collaborate!
       <img src="images/milk.png" alt="Milk Quality Predictor" />
     </td>
     <td>
+      <a name="milk-quality-prediction---mlops-project"></a>
       <a href="https://github.com/pranavsrinivas29/Milk-Quality-Prediction"><b>Milk Quality Prediction - MLOps Project</b></a><br/>
-      Milk Quality Prediction is a machine learning-based project that classifies milk into Low, Medium, or High quality based on measurable physical and chemical properties like pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.
+      Classifies milk quality (Low, Medium, High) using pH, Temperature, Taste, Odor, Fat, Turbidity, and Color...
     </td>
   </tr>
 </table>
+
+---
+
+## 🗣️ NLP / Generative AI Projects  
+
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/blogs.png" alt="Blogs-Recommender-System" />
+    </td>
+    <td>
+      <a name="blogs-recommender-system"></a>
+      <a href="https://github.com/pranavsrinivas29/Blogs-Recommender-System"><b>Blogs-Recommender-System</b></a><br/>
+      A multi-level hybrid recommender system using popularity-based, content-based, and collaborative filtering...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/medbuddy.png" alt="MedBuddy Chatbot" />
+    </td>
+    <td>
+      <a name="med-buddy-chatbot"></a>
+      <a href="https://github.com/pranavsrinivas29/MedBuddy_chatbot"><b>Med-Buddy Chatbot</b></a><br/>
+      A LangChain + LLM chatbot for drug information, comparisons, and symptom-based recommendations...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/rnn.png" alt="Unreasonable-effectiveness-of-RNN" />
+    </td>
+    <td>
+      <a name="unreasonable-effectiveness-of-rnn"></a>
+      <a href="https://github.com/pranavsrinivas29/MedBuddy_chatbot"><b>Unreasonable-effectiveness-of-RNN</b></a><br/>
+      Exploring RNNs for text generation: Shakespeare dialogues, baby names, and LaTeX code generation...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/epl.png" alt="EPL-Data-Analysis-and-Prediction" />
+    </td>
+    <td>
+      <a name="epl-data-analysis-and-prediction"></a>
+      <a href="https://github.com/pranavsrinivas29/EPL-Data-Analysis-and-Prediction"><b>EPL Data Analysis Chatbot</b></a><br/>
+      A chatbot that answers Premier League questions using FAISS + Sentence Transformers + GPT-2...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/food.png" alt="Recipe Finder with Ingredient Search" />
+    </td>
+    <td>
+      <a name="recipe-finder-with-ingredient-search"></a>
+      <a href="https://github.com/pranavsrinivas29/Reciepe-Finder"><b>Recipe Finder</b></a><br/>
+      Ingredient-based recipe search using HuggingFace embeddings + ChromaDB + Streamlit...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/news_aggregator.png" alt="News Aggregator" />
+    </td>
+    <td>
+      <a name="news-aggregator"></a>
+      <a href="https://github.com/pranavsrinivas29/Personalized-News-Aggregator"><b>News Aggregator</b></a><br/>
+      AI-powered RAG-based news aggregator that fetches, filters, and summarizes real-time articles...
+    </td>
+  </tr>
+</table>
+
+---
+
+## 👁️ Computer Vision / AI Application Projects  
+
+<table>
+  <tr>
+    <td width="25%">
+      <img src="images/dog-vs-cat.png" alt="Dog-vs-Cat-Classsification-using-MobileNet" />
+    </td>
+    <td>
+      <a name="dog-vs-cat-classsification-using-mobilenet"></a>
+      <a href="https://github.com/pranavsrinivas29/Dog-vs-Cat-Classsification-using-MobileNet"><b>Dog vs Cat Classification</b></a><br/>
+      Image classification pipeline using TensorFlow + MobileNetV2 for binary classification...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/biology.png" alt="Breast Cancer Classification using Neural Networks" />
+    </td>
+    <td>
+      <a name="breast-cancer-classification-using-neural-networks"></a>
+      <a href="https://github.com/pranavsrinivas29/Breast-Cancer-Classification"><b>Breast Cancer Classification</b></a><br/>
+      Neural network-based classification of breast cancer using structured medical datasets...
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/market_basket.png" alt="Market-Basket-Analysis" />
+    </td>
+    <td>
+      <a name="market-basket-analysis"></a>
+      <a href="https://github.com/pranavsrinivas29/Market-Basket-Analysis"><b>Market Basket Analysis</b></a><br/>
+      Market basket analysis using Apriori, Eclat, and Graph Neural Networks (GNN)...
+    </td>
+  </tr>
+</table>
+
 
 ## Case Studies
 <table>
