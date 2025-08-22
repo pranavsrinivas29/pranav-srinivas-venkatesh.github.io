@@ -35,6 +35,7 @@ Feel free to explore, connect, or collaborate!
 - [Market Basket Analysis](#market-basket-analysis)
 
 <table>
+  <a name="blogs-recommender-system"></a>
   <tr>
     <td width="25%">
       <img src="images/blogs.png" alt="Blogs-Recommender-System" />
@@ -45,6 +46,7 @@ Feel free to explore, connect, or collaborate!
     </td>
   </tr>
 
+  <a name="med-buddy-chatbot"></a>
   <tr>
     <td width="25%">
       <img src="images/medbuddy.png" alt="MedBuddy Chatbot" />
