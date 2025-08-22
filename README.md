@@ -163,6 +163,16 @@ Feel free to explore, connect, or collaborate!
       An intelligent, AI-powered news aggregator that fetches real-time articles based on user queries and preferences, summarizes them using RAG (Retrieval-Augmented Generation), and filters them by region, language, and content safety.
     </td>
   </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/milk.png" alt="Milk Quality Predictor" />
+    </td>
+    <td>
+      <a href="https://github.com/pranavsrinivas29/Milk-Quality-Prediction"><b>Milk Quality Prediction - MLOps Project</b></a><br/>
+      Milk Quality Prediction is a machine learning-based project that classifies milk into Low, Medium, or High quality based on measurable physical and chemical properties like pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.
+    </td>
+  </tr>
 </table>
 
 ## Case Studies
