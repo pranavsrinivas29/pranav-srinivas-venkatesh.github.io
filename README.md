@@ -340,7 +340,7 @@ Feel free to explore, connect, or collaborate!
 
 ---
 
-### ⚙️ DevOps & Deployment  
+### ⚙️ DevOps, MLOps & Deployment  
 <p align="left">
   <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=white&style=flat-square" alt="Docker"></a>
   <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="https://img.shields.io/badge/-Azure%20DevOps-333?logo=azuredevops&logoColor=white&style=flat-square" alt="Azure DevOps"></a>
