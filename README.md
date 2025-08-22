@@ -35,23 +35,25 @@ Feel free to explore, connect, or collaborate!
 - [Market Basket Analysis](#market-basket-analysis)
 
 <table>
-  <a name="blogs-recommender-system"></a>
+  
   <tr>
     <td width="25%">
       <img src="images/blogs.png" alt="Blogs-Recommender-System" />
     </td>
     <td>
+      <a name="blogs-recommender-system"></a>
       <a href="https://github.com/pranavsrinivas29/Blogs-Recommender-System"><b>Blogs-Recommender-System</b></a><br/>
       This project builds a multi-level hybrid blog recommendation system using a combination of popularity-based, content-based, collaborative filtering approaches. It is based on three main datasets: author information, blog metadata, and user-blog interaction (ratings).
     </td>
   </tr>
 
-  <a name="med-buddy-chatbot"></a>
+  
   <tr>
     <td width="25%">
       <img src="images/medbuddy.png" alt="MedBuddy Chatbot" />
     </td>
     <td>
+      <a name="med-buddy-chatbot"></a>
       <a href="https://github.com/pranavsrinivas29/MedBuddy_chatbot"><b>Med-Buddy Chatbot</b></a><br/>
       MedBuddy is a conversational medical assistant built with LangChain, Streamlit, and LLMs (Zephyr/Ollama). It helps users interactively explore drug-related information, compare medications, understand medical terms, and even suggest drugs based on symptoms.
     </td>
