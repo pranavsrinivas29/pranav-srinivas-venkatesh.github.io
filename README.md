@@ -295,22 +295,40 @@ Feel free to explore, connect, or collaborate!
 
 </table>
 
-## Tools and Frameworks
+## 🛠️ Tools and Frameworks  
+
+### 👨‍💻 Programming & Core  
 <p align="left">
   <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/-Python-333?logo=python&logoColor=white&style=flat-square" alt="Python"></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/-FastAPI-333?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"></a>
-  <a href="https://streamlit.io/" title="Streamlit"><img src="https://img.shields.io/badge/-Streamlit-333?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit"></a>
+  <a href="https://jupyter.org/" title="Jupyter Notebook"><img src="https://img.shields.io/badge/-Jupyter-333?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter"></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white&style=flat-square" alt="GitHub"></a>
+</p>
+
+---
+
+### 🤖 Machine Learning & Deep Learning  
+<p align="left">
   <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://img.shields.io/badge/-Scikit--Learn-333?logo=scikit-learn&logoColor=white&style=flat-square" alt="Scikit-learn"></a>
+  <a href="https://pytorch.org/" title="PyTorch"><img src="https://img.shields.io/badge/-PyTorch-333?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch"></a>
   <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://img.shields.io/badge/-TensorFlow-333?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"></a>
   <a href="https://keras.io/" title="Keras"><img src="https://img.shields.io/badge/-Keras-333?logo=keras&logoColor=white&style=flat-square" alt="Keras"></a>
+  <a href="https://mlflow.org/" title="MLflow"><img src="https://img.shields.io/badge/-MLflow-333?logo=mlflow&logoColor=white&style=flat-square" alt="MLflow"></a>
+</p>
+
+---
+
+### 📊 Data & Analytics  
+<p align="left">
   <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://img.shields.io/badge/-Pandas-333?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=white&style=flat-square" alt="Docker"></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white&style=flat-square" alt="GitHub"></a>
   <a href="https://www.databricks.com/" title="Databricks"><img src="https://img.shields.io/badge/-Databricks-333?logo=databricks&logoColor=white&style=flat-square" alt="Databricks"></a>
   <a href="https://www.snowflake.com/" title="Snowflake"><img src="https://img.shields.io/badge/-Snowflake-333?logo=snowflake&logoColor=white&style=flat-square" alt="Snowflake"></a>
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"></a>
-  <a href="https://jupyter.org/" title="Jupyter Notebook"><img src="https://img.shields.io/badge/-Jupyter-333?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter"></a>
-  <a href="https://pytorch.org/" title="PyTorch"><img src="https://img.shields.io/badge/-PyTorch-333?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch"></a>
+</p>
+
+---
+
+### 🗣️ GenAI, LLMs & RAG  
+<p align="left">
   <a href="https://openai.com/" title="OpenAI"><img src="https://img.shields.io/badge/-OpenAI-333?logo=openai&logoColor=white&style=flat-square" alt="OpenAI"></a>
   <a href="https://huggingface.co/" title="Hugging Face"><img src="https://img.shields.io/badge/-HuggingFace-333?logo=huggingface&logoColor=white&style=flat-square" alt="Hugging Face"></a>
   <a href="https://www.langchain.com/" title="LangChain"><img src="https://img.shields.io/badge/-LangChain-333?logo=langchain&logoColor=white&style=flat-square" alt="LangChain"></a>
@@ -318,7 +336,16 @@ Feel free to explore, connect, or collaborate!
   <a href="https://www.trychroma.com/" title="ChromaDB"><img src="https://img.shields.io/badge/-ChromaDB-333?logo=database&logoColor=white&style=flat-square" alt="ChromaDB"></a>
   <a href="https://www.langgraph.dev/" title="LangGraph"><img src="https://img.shields.io/badge/-LangGraph-333?logo=workflow&logoColor=white&style=flat-square" alt="LangGraph"></a>
   <a href="https://ollama.com/" title="Ollama"><img src="https://img.shields.io/badge/-Ollama-333?logo=llm&logoColor=white&style=flat-square" alt="Ollama"></a>
+</p>
+
+---
+
+### ⚙️ DevOps & Deployment  
+<p align="left">
+  <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=white&style=flat-square" alt="Docker"></a>
   <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="https://img.shields.io/badge/-Azure%20DevOps-333?logo=azuredevops&logoColor=white&style=flat-square" alt="Azure DevOps"></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/-FastAPI-333?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"></a>
+  <a href="https://streamlit.io/" title="Streamlit"><img src="https://img.shields.io/badge/-Streamlit-333?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit"></a>
 </p>
 
 ## Publication
