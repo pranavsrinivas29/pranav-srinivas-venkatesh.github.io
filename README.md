@@ -6,9 +6,13 @@ This portfolio also showcases my **achievements**, **technical skills**, and **c
 It is **updated regularly** as I continue learning and building impactful projects.
 
 Feel free to explore, connect, or collaborate!
-## 📫 Contact
+## 📫 Media
 
-- [Email](mailto:pranav.sv.data@gmail.com) [LinkedIn](https://www.linkedin.com/in/pranav-srinivas-venkatesh-81a211163/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav.sv.data@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-srinivas-venkatesh-81a211163/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pranav10srinivas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavsrinivas29)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pranavsrinivas123)
 
 ## 👨‍💻 Projects
 
