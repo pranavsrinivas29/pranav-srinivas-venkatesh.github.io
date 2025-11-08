@@ -113,6 +113,16 @@ Feel free to explore, connect, or collaborate!
       Milk Quality Prediction is a machine learning-based project that classifies milk into Low, Medium, or High quality based on measurable physical and chemical properties like pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.
     </td>
   </tr>
+  <tr>
+    <td width="25%">
+      <img src="images/sales.png" alt="Sales Forecasting Timeseries" />
+    </td>
+    <td>
+      <a name="sales-forecasting-aggregator"></a>
+      <a href="https://github.com/pranavsrinivas29/Sales-Forescasting-Timeseries"><b>Sales Forecasting Timeseries</b></a><br>
+      This project contains my solution to the Store Sales - Time Series Forecasting competition on Kaggle. The goal of the competition is to predict daily unit sales for thousands of items sold at different stores, leveraging both historical sales data and associated time-based, store-related, oil price, and holiday features.
+    </td>
+  </tr>
 </table>
 
 ---
@@ -225,6 +235,17 @@ Feel free to explore, connect, or collaborate!
       Market Basket Analysis: Apriori, Eclat, and Graph Neural Networks (GNN)
     </td>
   </tr>
+  <tr>
+      <td width="25%">
+        <img src="images/energy-demand-forecasting.png" alt="Energy Demand Forecasting" />
+      </td>
+      <td>
+        <a name="energy-demand-forecasting"></a>
+        <a href="https://github.com/pranavsrinivas29/Energy-Demand-Forecasting"><b>Energy Demand Forecasting</b></a><br/>
+        Market Basket Analysis: Apriori, Eclat, and Graph Neural Networks (GNN)
+      </td>
+    </tr>
+  
 </table>
 
 
