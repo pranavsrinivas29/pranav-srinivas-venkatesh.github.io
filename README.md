@@ -127,6 +127,16 @@ Feel free to explore, connect, or collaborate!
       This project contains my solution to the Store Sales - Time Series Forecasting competition on Kaggle. The goal of the competition is to predict daily unit sales for thousands of items sold at different stores, leveraging both historical sales data and associated time-based, store-related, oil price, and holiday features.
     </td>
   </tr>
+  <tr>
+    <td width="25%">
+      <img src="images/weather.png" alt="Weather Prediction End-to-end Project" />
+    </td>
+    <td>
+      <a name="sales-forecasting-aggregator"></a>
+      <a href="https://github.com/pranavsrinivas29/Weather-prediction"><b>Weather Prediction End-to-end Project</b></a><br>
+      This project is a fully modular Weather Prediction System built with Streamlit for the frontend and FastAPI for backend inference. It uses deep learning models (LSTM, GRU, and GRU Encoder–Decoder) along with a robust preprocessing pipeline that includes calendar-based features, MinMax scaling, and label encoding, ensuring a clean separation between UI, API, data processing, and model logic.
+    </td>
+  </tr>
 </table>
 
 ---
