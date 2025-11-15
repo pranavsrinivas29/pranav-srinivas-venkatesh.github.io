@@ -24,6 +24,8 @@ Feel free to explore, connect, or collaborate!
 - [Clustering](#clustering)
 - [Netflix Dashboard](#netflix-dashboard-using-powerbi)
 - [Milk Quality Prediction](#milk-quality-prediction---mlops-project)
+- [Sales Forecasting](#sales-forecasting)
+- [Weather Prediction](#weather-prediction)
 
 ### 🗣️ NLP / Generative AI
 - [Blogs Recommender System](#blogs-recommender-system)
@@ -122,7 +124,7 @@ Feel free to explore, connect, or collaborate!
       <img src="images/sales.png" alt="Sales Forecasting Timeseries" />
     </td>
     <td>
-      <a name="sales-forecasting-aggregator"></a>
+      <a name="sales-forecasting"></a>
       <a href="https://github.com/pranavsrinivas29/Sales-Forescasting-Timeseries"><b>Sales Forecasting Timeseries</b></a><br>
       This project contains my solution to the Store Sales - Time Series Forecasting competition on Kaggle. The goal of the competition is to predict daily unit sales for thousands of items sold at different stores, leveraging both historical sales data and associated time-based, store-related, oil price, and holiday features.
     </td>
@@ -132,7 +134,7 @@ Feel free to explore, connect, or collaborate!
       <img src="images/weather.png" alt="Weather Prediction End-to-end Project" />
     </td>
     <td>
-      <a name="sales-forecasting-aggregator"></a>
+      <a name="weather-prediction"></a>
       <a href="https://github.com/pranavsrinivas29/Weather-prediction"><b>Weather Prediction End-to-end Project</b></a><br>
       This project is a fully modular Weather Prediction System built with Streamlit for the frontend and FastAPI for backend inference. It uses deep learning models (LSTM, GRU, and GRU Encoder–Decoder) along with a robust preprocessing pipeline that includes calendar-based features, MinMax scaling, and label encoding, ensuring a clean separation between UI, API, data processing, and model logic.
     </td>
