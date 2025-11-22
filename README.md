@@ -34,6 +34,7 @@ Feel free to explore, connect, or collaborate!
 - [EPL Data Analysis Chatbot](#epl-data-analysis-and-prediction)
 - [Recipe Finder](#recipe-finder-with-ingredient-search)
 - [News Aggregator](#news-aggregator)
+- [Tweet Disaster Classification](#disaster-tweet-classification)
 
 ### 👁️ Computer Vision / AI Applications
 - [Dog vs Cat Classification](#dog-vs-cat-classsification-using-mobilenet)
@@ -210,6 +211,17 @@ Feel free to explore, connect, or collaborate!
       <a name="news-aggregator"></a>
       <a href="https://github.com/pranavsrinivas29/Personalized-News-Aggregator"><b>News Aggregator</b></a><br/>
       An intelligent, AI-powered news aggregator that fetches real-time articles based on user queries and preferences, summarizes them using RAG (Retrieval-Augmented Generation), and filters them by region, language, and content safety.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%">
+      <img src="images/news_aggregator.png" alt="Disaster tweet Classification" />
+    </td>
+    <td>
+      <a name="disaster-tweet-classification"></a>
+      <a href="https://github.com/pranavsrinivas29/Tweet-Disaster-Classification"><b>Disaster Tweet Classification</b></a><br/>
+      A complete multi-approach text classification project using: 1) Traditional Machine Learning 2) Deep Learning (Bi-LSTMs) 3) Transformer-based NLP (DistilBERT)    
     </td>
   </tr>
 </table>
